@@ -18,9 +18,9 @@ int main()
 	
 	// TODO: declare needed variables
 	
-	//test
+	
 	// TODO: get user's grade, a char
-
+	//test
 	
 	// TODO: let user know if they need to take
 	// the final based on their letter grade
