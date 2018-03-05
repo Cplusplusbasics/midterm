@@ -15,7 +15,7 @@ using namespace std;
 
 int main()
 {
-	//test
+	
 	// TODO: declare needed variables
 
 	// TODO: get user's grade, a char
